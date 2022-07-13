@@ -4,3 +4,7 @@ Here you list some basic information about your project what it does and what do
 ## Subheader
 
 Watch tutorial on YouTube.
+
+## Local development 
+
+1.Here are some steps you need to take
